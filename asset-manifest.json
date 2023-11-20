@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/C:/Users/PC/Documents/Cursos/React/platzi/Tareas/build/static/css/main.5fd40694.css",
+    "main.js": "/C:/Users/PC/Documents/Cursos/React/platzi/Tareas/build/static/js/main.fff0af12.js",
+    "index.html": "/C:/Users/PC/Documents/Cursos/React/platzi/Tareas/build/index.html",
+    "main.5fd40694.css.map": "/C:/Users/PC/Documents/Cursos/React/platzi/Tareas/build/static/css/main.5fd40694.css.map",
+    "main.fff0af12.js.map": "/C:/Users/PC/Documents/Cursos/React/platzi/Tareas/build/static/js/main.fff0af12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd40694.css",
+    "static/js/main.fff0af12.js"
+  ]
+}
